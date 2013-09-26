@@ -16,7 +16,7 @@ for j in range(1,len(array)):
 	array[i+1] = key				 # Set the box ahead of the current box to be the key
 
 print(array)
-input('Press Enter to get fucked')
+input('Press Enter to begin')
 
 """
 Pseudo Code:
